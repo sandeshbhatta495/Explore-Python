@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\python program
+Explore-Python
+sandeshbhatta495
+bhattasandesh148@gmail.com
+https://github.com/sandeshbhatta495/Explore-Python.git
+git branch -M main
+git push -u origin main
+This file and folder is my learning and exploring of python. In this file I learn the python from about basics to advanced level In file I explore Basics library to advanced like Numpy,Pandas mathplot In this folder It contain Many project OOP related projects like Using API what's app automation Project
+
+ssh-keygen -t sa55555-"bhattasandesh148@gmail.com"
